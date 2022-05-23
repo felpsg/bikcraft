@@ -24,3 +24,7 @@
 /* Footer */
 
 @import "./global/footer.css";
+
+/* Termos e Condições */
+
+@import "./termos/termos.css";
