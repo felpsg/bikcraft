@@ -21,6 +21,11 @@
 
 @import "./seguros/seguros.css";
 
+/* Pagina Seguros */
+
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
+
 /* Footer */
 
 @import "./global/footer.css";
@@ -32,3 +37,5 @@
 /* Bicicletas 2 pagina */
 
 @import "./bicicletas/bicicletas.css";
+
+/* Pagina Seguros */
