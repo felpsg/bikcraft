@@ -18,24 +18,20 @@
 @import "./bicicletas/bicicletas-lista.css";
 
 /* Seguros */
-
 @import "./seguros/seguros.css";
 
 /* Pagina Seguros */
-
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
 
 /* Footer */
-
 @import "./global/footer.css";
 
 /* Termos e Condições */
-
 @import "./termos/termos.css";
 
 /* Bicicletas 2 pagina */
-
 @import "./bicicletas/bicicletas.css";
 
-/* Pagina Seguros */
+/* Bicicleta pagina 3 css */
+@import "./bicicleta/bicicleta.css";
