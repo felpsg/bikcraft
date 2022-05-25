@@ -36,3 +36,15 @@
 
 /* Bicicleta pagina 3 css */
 @import "./bicicleta/bicicleta.css";
+
+/* Contatos */
+
+@import "./contato/contato.css";
+
+/* Lojas */
+
+@import "./contato/lojas.css";
+
+/* Formulario */
+
+@import "./utilidades/formulario.css";
