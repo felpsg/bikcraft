@@ -23,6 +23,7 @@
 /* Pagina Seguros */
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
+@import "./bicicleta/seguro.css";
 
 /* Footer */
 @import "./global/footer.css";
