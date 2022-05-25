@@ -1,3 +1,37 @@
 .vantagens-bg {
   background-color: var(--cor-12);
 }
+
+.vantagens {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.vantagens h2 {
+  margin-bottom: 60px;
+}
+
+.vantagens ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, max-content));
+  /* 1fr 1fr 1fr; * poderia ser assim, pórem Iria ter que mudar o responsivo sempre que as colunas diminuissem */
+  gap: 40px 80px;
+}
+
+.vantagens h3,
+img {
+  margin-bottom: 8px;
+}
+
+@media (min-width: 768px) {
+  .vantagens {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .vantagens h2 {
+    margin-bottom: 40px;
+  }
+  .vantagens ul {
+    gap: 20px;
+  }
+}
