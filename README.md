@@ -1,4 +1,4 @@
-Site criado do 0 no curso da Origamid, totalmente responsivo usando apenas <strong>HTML e CSS</strong> (puro), com uma ,strong>bela interface</strong>, todos os detalhes criado com CSS. Contém mais de 6 páginas de navegação, todas otimizadas para uma melhor perfomace na web como <strong>SEO, Acessibilidade, boas práticas e melhores desempenhos</strong>.
+Site criado do 0 no curso da Origamid, totalmente responsivo usando apenas <strong>HTML e CSS</strong> (puro), com uma ,<strong>bela interface</strong>, todos os detalhes criado com CSS. Contém mais de 6 páginas de navegação, todas otimizadas para uma melhor perfomace na web como <strong>SEO, Acessibilidade, boas práticas e melhores desempenhos</strong>.
 
 <strong>LINK PARA ACESSAR O SITE:</strong> https://felpsg.github.io/bikcraft
 
